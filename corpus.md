@@ -9,6 +9,7 @@ For a quick preview all data is shown on this webpage. In order to process the d
 
 [Donwload pop & roch collection][2]
 
+See here the descriptors: [https://github.com/voice-and-co/ISMIR2024/tree/main/features](https://github.com/voice-and-co/ISMIR2024/tree/main/features)
 
 ---
 
